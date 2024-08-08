@@ -1,6 +1,6 @@
 # React Todo App
 
-<img src="https://drive.google.com/file/d/1JXf9B336iNkSICo995nKp-flEDwBnNm6/view?usp=sharing" width="100%" style="max-width: 100%;">
+<img src="https://as1.ftcdn.net/v2/jpg/05/71/06/76/1000_F_571067620_JS5T5TkDtu3gf8Wqm78KoJRF1vobPvo6.jpg" width="100%" style="max-width: 100%;">
 
 # Getting Started with Create React App
 
